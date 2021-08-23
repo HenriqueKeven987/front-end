@@ -1,5 +1,5 @@
 *{
-	background-color: darkred;
+	
 }
 
 h1{
@@ -13,3 +13,11 @@ img{
 	max-width: 1200px;
 	max-height: 900px;
 }
+
+table{
+	font-size: 30px;
+	width: 85%;
+	text-align: center;
+	float: center;
+}
+

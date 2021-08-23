@@ -1,0 +1,40 @@
+Anotaçoes
+
+<head>
+cabeça do site onde fica os hrefs de toda pagina
+
+<body>
+o corpo do site onde fica toda a parte q geralmente E visual ao cliente
+
+<h1> A <h6>
+titulos da priorida 1 a 6
+
+<p>
+paragrafo so isso
+
+<span>
+usado para manter o codigo in-line
+
+<div>
+divisao dada as partes do site
+
+<table>
+tabela estruturada com thead como cabeça e tbody como corpo
+
+<input>
+forma de entrada de dados post geralmente fica dentro de form 
+
+<img>
+usado para colocar imagens
+
+<a>
+usado para links
+
+<link>
+chamar arquivo CSS
+
+<script>
+usado para chamar JS
+
+ 
+
