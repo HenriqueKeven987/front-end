@@ -1,0 +1,50 @@
+*{
+	
+}
+
+h1{
+	font-size: 20px;
+}
+p{
+	font-size: 100px;
+}
+
+img{
+	max-width: 1200px;
+	max-height: 900px;
+}
+
+table{
+	font-size: 30px;
+	width: 85%;
+	text-align: center;
+	float: center;
+}
+
+#Menu{
+	width: 100%;
+	background: red;
+}
+
+#Menu a{
+	float: right;
+	padding: 5px;
+}
+
+a{
+	text-decoration: none;
+}
+
+table thead{
+	color: red;
+	background: green;
+
+}
+
+table tbody{
+	background: blue;
+}
+
+table tbody img{
+	background: none;
+}

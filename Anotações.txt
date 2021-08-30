@@ -1,5 +1,7 @@
 Anotaçoes
 
+<!DOCTYPE html>
+
 <head>
 cabeça do site onde fica os hrefs de toda pagina
 
